@@ -1,0 +1,34 @@
+# Magomed Magomedov
+    
+## Contacts
+**Email:** [Dargojs@gmail.com](https://mail.google.com/mail/u/0/#inbox)<br>
+<br>
+
+**Social**
+   * Skype: [Magomed M.](https://join.skype.com/invite/CWz9yBWOMrgu)
+   * Telegram: [dargojs](https://t.me/dargojs)
+   * Github: [DargoDag](https://github.com/DargoDag)
+
+## Skills:
+* **Knowledge programming languages:**
+  * *JavaScript*,
+  * *HTML*,
+  * *CSS (SCSS)*,
+  * *Markdown*.
+* **Knowledge of BEM**
+* **Additional skills**
+  * *Webpack*,
+  * *Gulp*,
+  * *Git*
+* **Working with the layout:**
+  * *Figma*,
+  * *Photoshop*.
+* **Bash basics**
+
+## Education:
+  * *Daghestan State Technical University (2015-2019)*
+  * [HTML-Academy](https://htmlacademy.ru/intensive/htmlcss)
+  * [The Rolling Scopes JavaScript Stage 0](https://rs.school/)
+
+## Knowledge of English:
+A2 level
