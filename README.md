@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://dargojs.github.io/rsschool-cv/cv
+https://dargodag.github.io/rsschool-cv/cv
